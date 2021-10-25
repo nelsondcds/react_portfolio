@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import About from './components/About';
 import Portfolio from "./components/Portfolio";
 import ContactForm from "./components/Contact";
+import Resume from "./components/Resume";
 
 function App() {
 
@@ -15,10 +16,23 @@ function App() {
 
   const [resumeSelected, setResumeSelected] = useState(false);
 
+  const [categories] = useState([
+    { name: 'About me' },
+    { name: 'Contact me' },
+    { name: 'Portfolio' },
+    { name: 'Resume' },
+  ]);
+
+  const [currentCategory, setCurrentCategory] = useState(categories[0]);
+
+
 
   return (
     <div>
       <Header
+        categories={categories}
+        currentCategory={currentCategory}
+        setCurrentCategory={setCurrentCategory}
         contactSelected={contactSelected}
         setContactSelected={setContactSelected}
         aboutSelected={aboutSelected}
@@ -36,7 +50,7 @@ function App() {
             <ContactForm></ContactForm>
           ) : (
             resumeSelected ? (
-              <About></About>
+              <Resume></Resume>
             ) : (
               <About></About>
         ))))}

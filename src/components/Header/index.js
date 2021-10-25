@@ -1,8 +1,11 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import Navigation from '../Navigation';
 
 function Header (props) {
     const {
+        categories,
+        currentCategory,
+        setCurrentCategory,
         contactSelected,
         setContactSelected,
         aboutSelected,
@@ -20,6 +23,9 @@ function Header (props) {
                 <a href="/">Nelson Carlos Da Silva</a>
             </h2>
             <Navigation
+                categories={categories}
+                currentCategory={currentCategory}
+                setCurrentCategory={setCurrentCategory}
                 contactSelected={contactSelected}
                 setContactSelected={setContactSelected}
                 aboutSelected={aboutSelected}

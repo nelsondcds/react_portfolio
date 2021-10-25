@@ -38,10 +38,10 @@ function ContactForm() {
 
 
     return (
-        <section>
+        <section className="my-5">
           <h1>Contact me</h1>
           <p>Contact me directly by phone or email:</p>
-          <div className="contact-info">
+          <div className="a-btn flex-row cen">
               <a href="tel:571.335.2236">571-335-2236</a>
               <a href="mailto:nelsondcds@gmail.com">Nelsondcds@gmail.com</a>
           </div>
