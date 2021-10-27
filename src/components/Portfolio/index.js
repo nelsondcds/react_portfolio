@@ -12,10 +12,10 @@ function Portfolio() {
           repo: 'https://github.com/nelsondcds/Project-2-The-Cocktail-Menu'
         },
         {
-            name: 'BeerMe',
-            filename: 'BeerMe.jpg',
-            link: 'https://nelsondcds.github.io/Project-1/',
-            repo: 'https://github.com/nelsondcds/Project-1'
+            name: 'Weightlifting-Genie',
+            filename: 'WeightliftingGenie.jpg',
+            link: 'https://weightlifting-genie.herokuapp.com/',
+            repo: 'https://github.com/nelsondcds/Project_3'
         },
         {
             name: 'Budget Tracker',
