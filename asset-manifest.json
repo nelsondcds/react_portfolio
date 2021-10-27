@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/react_portfolio/static/css/main.00ad2e5e.chunk.css",
-    "main.js": "/react_portfolio/static/js/main.b1c35a4c.chunk.js",
-    "main.js.map": "/react_portfolio/static/js/main.b1c35a4c.chunk.js.map",
-    "runtime-main.js": "/react_portfolio/static/js/runtime-main.8ab34d7f.js",
-    "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.8ab34d7f.js.map",
+    "main.js": "/react_portfolio/static/js/main.6223831b.chunk.js",
+    "main.js.map": "/react_portfolio/static/js/main.6223831b.chunk.js.map",
+    "runtime-main.js": "/react_portfolio/static/js/runtime-main.357ab6e7.js",
+    "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.357ab6e7.js.map",
     "static/js/2.8a7f6ff2.chunk.js": "/react_portfolio/static/js/2.8a7f6ff2.chunk.js",
     "static/js/2.8a7f6ff2.chunk.js.map": "/react_portfolio/static/js/2.8a7f6ff2.chunk.js.map",
-    "static/js/3.44451ae4.chunk.js": "/react_portfolio/static/js/3.44451ae4.chunk.js",
-    "static/js/3.44451ae4.chunk.js.map": "/react_portfolio/static/js/3.44451ae4.chunk.js.map",
+    "static/js/3.65c159f1.chunk.js": "/react_portfolio/static/js/3.65c159f1.chunk.js",
+    "static/js/3.65c159f1.chunk.js.map": "/react_portfolio/static/js/3.65c159f1.chunk.js.map",
     "index.html": "/react_portfolio/index.html",
     "static/css/main.00ad2e5e.chunk.css.map": "/react_portfolio/static/css/main.00ad2e5e.chunk.css.map",
     "static/js/2.8a7f6ff2.chunk.js.LICENSE.txt": "/react_portfolio/static/js/2.8a7f6ff2.chunk.js.LICENSE.txt",
     "static/media/BeerMe.jpg": "/react_portfolio/static/media/BeerMe.6304c72b.jpg",
     "static/media/BudgetTracker.jpg": "/react_portfolio/static/media/BudgetTracker.69a24acd.jpg",
     "static/media/TheCocktailMenu.jpg": "/react_portfolio/static/media/TheCocktailMenu.73c3cdf9.jpg",
+    "static/media/WeightliftingGenie.jpg": "/react_portfolio/static/media/WeightliftingGenie.97552a68.jpg",
     "static/media/background.jpg": "/react_portfolio/static/media/background.b5325cbc.jpg",
     "static/media/food-festival.jpg": "/react_portfolio/static/media/food-festival.e6caef27.jpg",
     "static/media/note-taker.jpg": "/react_portfolio/static/media/note-taker.1eea00fa.jpg",
@@ -22,9 +23,9 @@
     "static/media/portrait.jpg": "/react_portfolio/static/media/portrait.2bbf0aad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ab34d7f.js",
+    "static/js/runtime-main.357ab6e7.js",
     "static/js/2.8a7f6ff2.chunk.js",
     "static/css/main.00ad2e5e.chunk.css",
-    "static/js/main.b1c35a4c.chunk.js"
+    "static/js/main.6223831b.chunk.js"
   ]
 }
