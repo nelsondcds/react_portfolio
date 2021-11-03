@@ -18,9 +18,9 @@ function Project({ project }) {
     }}>
       <div className="fade">
         <div className="flex-row aln">
-          <a href={repo} className="full-fade">{name}</a>
+          <a href={link}link className="full-fade">{name}</a>
           <div className="icon full-fade smol">
-              <a href={link}><img src={github} alt="github icon." /></a>
+              <a href={repo}><img src={github} alt="github icon." /></a>
             </div>
         </div>
       </div>
